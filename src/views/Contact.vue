@@ -2,7 +2,7 @@
   <div>
     <div class="container">
       <div class="contact-info">
-          <h2>Contact Us verma chnage</h2>
+          <h2>Contact Us verma chnage for laerning</h2>
           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
           <div class="info-container">
   <div class="info-item">
